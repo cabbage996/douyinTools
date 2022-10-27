@@ -1,1 +1,1 @@
-# douyinTools
+# 主要功能：通过抖音号获取抖音UID
